@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is segunanna and i'm currently enrolled in ALX Africa where i am learning to become a software engineer.
+My name is Anna Segun and i'm currently enrolled in ALX Africa where i am learning to become a software engineer.
 I beleive with consistency and passion, i will grow into a front end engineer. I am looking forward to collabration in developing a software
-where rural farmers can have unlimited access to moderm farming equipments. 
+where rural farmers can have unlimited access to modern farming equipments. 
 
 You can reach me on my email: annasegun8@gmail.com
 
